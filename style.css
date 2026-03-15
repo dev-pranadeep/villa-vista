@@ -204,3 +204,24 @@ height:220px;
     padding: 10px 30px;
     border-radius: 8px;
 }
+.property-heading p{
+position: absolute;
+background-color: white;
+left: 615px;
+top: 210px;
+z-index: 50;
+border: 2px solid white;
+}
+.property-heading h1{
+ position: absolute;
+ color: white;
+left: 570px;
+top: 260px;
+z-index: 50;
+font-weight: bold;
+}
+.align{
+  position: relative;
+  top: 75px;
+  left: 450px;
+}
